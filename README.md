@@ -104,9 +104,7 @@ An AI-powered platform for **hydrometric data management, analysis and intellige
 - 📊 Automated hydrometric yearbooks
 - 🗺️ Hydrometric map generation
 
-<a href="https://github.com/eya-boukeri/Agentic-plateforme-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eya-boukeri&repo=Agentic-plateforme-AI&theme=tokyonight&hide_border=true" />
-</a>
+🔗 **[View Repository](https://github.com/eya-boukeri/Agentic-plateforme-AI)**
 
 ---
 
@@ -122,9 +120,7 @@ A distributed platform for **remote vital-sign monitoring** using IoT and AI tec
 - 🔐 Keycloak / OAuth2 / JWT
 - 📊 React monitoring dashboard
 
-<a href="https://github.com/eya-boukeri/IoMT-Telemonitoring-Platform-Heartline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eya-boukeri&repo=IoMT-Telemonitoring-Platform-Heartline&theme=tokyonight&hide_border=true" />
-</a>
+🔗 **[View Repository]( https://github.com/eya-boukeri/IoMT-Telemonitoring-Platform-Heartline)**
 
 ---
 
@@ -146,9 +142,7 @@ Machine learning pipeline for detecting **absence seizures from EEG signals**.
 
 My developer portfolio showcasing my projects, skills and experience.
 
-<a href="https://github.com/eya-boukeri/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eya-boukeri&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
+🔗 **[View Repository](https://github.com/eya-boukeri/portfolio)**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&section=header" width="100%" />
 
