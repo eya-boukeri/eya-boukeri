@@ -130,42 +130,35 @@ My personal developer portfolio showcasing my projects, skills and experience.
 
 ---
 
-# 🔬 Research Interests
+## 🔬 Research Interests
 
-I'm particularly interested in exploring:
+| 🤖 AI & Intelligent Systems | 🩺 Healthcare & IoT |
+|:---|:---|
+| Agentic AI & Multi-Agent Systems | AI for Healthcare |
+| RAG & LLM Applications | Edge & IoT Systems |
+| Distributed Computing | Biomedical & Scientific Data |
 
-```text
-🤖 Agentic AI & Multi-Agent Systems
-        ↓
-📚 RAG & LLM Applications
-        ↓
-🩺 AI for Healthcare
-        ↓
-📡 Edge & IoT Systems
-        ↓
-⚙️ Distributed Computing
-        ↓
-📊 Biomedical & Scientific Data
+---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eya-boukari\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eya-boukari\&layout=compact\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eya-boukeri&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-boukeri&layout=compact&hide_border=true" height="170"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 **[aya.boukari@etudiant-enit.utm.tn](mailto:aya.boukari@etudiant-enit.utm.tn)**
-
-💼 **[LinkedIn](https://linkedin.com/in/aya-boukari)**
-
-💻 **[GitHub](https://github.com/eya-boukari)**
+📧 **[Email](mailto:aya.boukari@etudiant-enit.utm.tn)**  
+💼 **[LinkedIn](https://linkedin.com/in/aya-boukari)**  
+💻 **[GitHub](https://github.com/eya-boukeri)**  
 
 📍 Tunis, Tunisia
 
 ---
 
 ⭐ Feel free to explore my repositories and projects!
-Always learning, building and experimenting with AI & software engineering.
+
+*Always learning, building and experimenting with AI & software engineering.*
