@@ -102,6 +102,7 @@ A distributed platform for **remote vital-sign monitoring** using IoT and AI tec
 - 🧠 XGBoost anomaly detection
 - 🔐 Keycloak / OAuth2 / JWT
 - 📊 React monitoring dashboard
+🔗 **[View Repository]( https://github.com/eya-boukeri/IoMT-Telemonitoring-Platform-Heartline)**
 
 ---
 
