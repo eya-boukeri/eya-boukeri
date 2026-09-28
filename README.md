@@ -158,14 +158,7 @@ My developer portfolio showcasing my projects, skills and experience.
 <!-- ═══════════ STATS ═══════════ -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eya-boukeri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-boukeri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eya-boukeri&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 
 <!-- ═══════════ SNAKE (needs the GitHub Action, see notes) ═══════════ -->
 <p align="center">
