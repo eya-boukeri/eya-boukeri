@@ -77,7 +77,7 @@ AI-powered platform for hydrometric data management and analysis.
 * 📊 Automated hydrometric yearbooks
 * 🗺️ Hydrometric map generation
 
-➡️ **[View Project](https://github.com/eya-boukari/Agentic-plateforme-AI)**
+➡️ **[View Project](https://github.com/eya-boukeri/Agentic-plateforme-AI)**
 
 ---
 
@@ -116,7 +116,7 @@ Machine learning pipeline for detecting absence seizures from EEG signals.
 
 My personal developer portfolio.
 
-➡️ **[View Portfolio](https://github.com/eya-boukari/portfolio)**
+➡️ **[View Portfolio](https://github.com/eya-boukeri/portfolio)**
 
 ---
 
