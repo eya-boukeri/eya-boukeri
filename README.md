@@ -1,19 +1,34 @@
+<!-- ═══════════ HEADER ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Eya%20Boukari&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Software%20Engineering%20%C2%B7%20Distributed%20Systems&descAlignY=57&descSize=18" alt="header" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=720&height=45&lines=Computer+Engineering+Student+%40+ENIT+%F0%9F%8E%93;Building+Agentic+AI+%26+RAG+systems+%F0%9F%A4%96;AI+for+Healthcare+%26+Hydrology+%F0%9F%A9%BA%F0%9F%8C%8A;Microservices+%C2%B7+Kafka+%C2%B7+MQTT+%E2%9A%99%EF%B8%8F;Looking+for+a+PFE+internship+in+AI+%2F+SWE+%F0%9F%9A%80" alt="typing animation" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="mailto:aya.boukari@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aya-boukari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/eya-boukeri/portfolio"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <img src="https://komarev.com/ghpvc/?username=eya-boukeri&label=Profile%20views&color=00c6ff&style=for-the-badge" />
+</p>
 
-
-# 👋 Hi, I'm Eya Boukari
-
-### 🎓 Computer Engineering Student · 🤖 AI · 💻 Software Engineering
+<!-- ═══════════ ABOUT ═══════════ -->
+## 👩‍💻 About me
 
 I'm a **3rd-year Computer Engineering student at ENIT, Tunisia**, and a concurrent Master's student in **TICV – Information Processing & Living Systems Complexity**.
 
-I'm interested in building **intelligent, data-driven and distributed systems**, especially at the intersection of AI, software engineering and healthcare.
+I build **intelligent, data-driven and distributed systems**, at the intersection of **AI, software engineering and healthcare**.
 
-🚀 **Currently looking for a PFE / final-year internship in AI or Software Engineering.**
+> 🚀 **Currently looking for a PFE / final-year internship in AI or Software Engineering.**
+> 📍 Tunis, Tunisia · 📧 Open to opportunities
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&section=header" width="100%" />
 
+<!-- ═══════════ WHAT I BUILD ═══════════ -->
 ## 🧠 What I Build
 
 I enjoy developing **end-to-end intelligent systems**, from data processing and backend APIs to AI pipelines and interactive interfaces.
@@ -26,57 +41,60 @@ I enjoy developing **end-to-end intelligent systems**, from data processing and 
 | ⚙️ **Distributed Systems** | Microservices, Kafka, MQTT, event-driven systems |
 | 🌐 **Software Engineering** | REST APIs, backend systems, React applications |
 
----
-
+<!-- ═══════════ TECH STACK ═══════════ -->
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+<table>
+<tr>
+<td><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,js,postgres&perline=8" />
+</td>
+</tr>
+<tr>
+<td><b>⚙️ Backend & APIs</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,flask&perline=8" /><br/>
+<sub>REST APIs · Microservices · Backend Architecture</sub>
+</td>
+</tr>
+<tr>
+<td><b>🤖 AI & Data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&perline=8" /><br/>
+<sub>LLMs · RAG · Agentic AI · XGBoost · ML · Signal Processing</sub>
+</td>
+</tr>
+<tr>
+<td><b>🌐 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,flutter&perline=8" />
+</td>
+</tr>
+<tr>
+<td><b>☁️ Distributed & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kafka,git&perline=8" /><br/>
+<sub>Kafka · MQTT · Docker · Keycloak · Event-Driven Architecture</sub>
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&section=header" width="100%" />
 
-### ⚙️ Backend & APIs
+<!-- ═══════════ PROJECTS ═══════════ -->
+## 🚀 Featured Projects
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**REST APIs · Microservices · Backend Architecture**
-
-### 🤖 AI & Data
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**LLMs · RAG · Agentic AI · XGBoost · Machine Learning · Signal Processing**
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### ☁️ Distributed Systems & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Kafka · MQTT · Docker · Keycloak · Event-Driven Architecture**
-
-### 🗄️ Databases
-
-**PostgreSQL · InfluxDB · MariaDB**
-
----
-
-# 🚀 Featured Projects
-
-## 🌊 Intelligent Hydrometric Data Platform
-
-**Agentic AI · RAG · Python · PostgreSQL · LLMs**
+### 🌊 Intelligent Hydrometric Data Platform
+`Agentic AI` `RAG` `Python` `PostgreSQL` `LLMs`
 
 An AI-powered platform for **hydrometric data management, analysis and intelligent assistance**.
 
@@ -86,13 +104,14 @@ An AI-powered platform for **hydrometric data management, analysis and intellige
 - 📊 Automated hydrometric yearbooks
 - 🗺️ Hydrometric map generation
 
-🔗 **[View Repository](https://github.com/eya-boukeri/Agentic-plateforme-AI)**
+<a href="https://github.com/eya-boukeri/Agentic-plateforme-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eya-boukeri&repo=Agentic-plateforme-AI&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
-## 🩺 IoMT Telemonitoring Platform
-
-**Microservices · Kafka · MQTT · Docker · Spring Boot · XGBoost · React**
+### 🩺 IoMT Telemonitoring Platform (Heartline)
+`Microservices` `Kafka` `MQTT` `Docker` `Spring Boot` `XGBoost` `React`
 
 A distributed platform for **remote vital-sign monitoring** using IoT and AI technologies.
 
@@ -102,35 +121,38 @@ A distributed platform for **remote vital-sign monitoring** using IoT and AI tec
 - 🧠 XGBoost anomaly detection
 - 🔐 Keycloak / OAuth2 / JWT
 - 📊 React monitoring dashboard
-🔗 **[View Repository]( https://github.com/eya-boukeri/IoMT-Telemonitoring-Platform-Heartline)**
+
+<a href="https://github.com/eya-boukeri/IoMT-Telemonitoring-Platform-Heartline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eya-boukeri&repo=IoMT-Telemonitoring-Platform-Heartline&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
-## 🧠 EEG Absence Seizure Detection
-
-**Python · Scikit-learn · FFT · Machine Learning**
+### 🧠 EEG Absence Seizure Detection
+`Python` `Scikit-learn` `FFT` `Machine Learning`
 
 Machine learning pipeline for detecting **absence seizures from EEG signals**.
 
 - Signal preprocessing
-- Time & frequency feature engineering
-- FFT analysis
+- Time & frequency feature engineering (FFT)
 - Decision Tree / Random Forest / KNN / SVM
 - Recall & F1-based evaluation
 - Handling imbalanced data
 
 ---
 
-## 💻 Personal Portfolio
+### 💻 Personal Portfolio
+`React` `JavaScript`
 
-**React · JavaScript**
+My developer portfolio showcasing my projects, skills and experience.
 
-My personal developer portfolio showcasing my projects, skills and experience.
+<a href="https://github.com/eya-boukeri/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eya-boukeri&repo=portfolio&theme=tokyonight&hide_border=true" />
+</a>
 
-🔗 **[View Repository](https://github.com/eya-boukeri/portfolio)**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&section=header" width="100%" />
 
----
-
+<!-- ═══════════ RESEARCH ═══════════ -->
 ## 🔬 Research Interests
 
 | 🤖 AI & Intelligent Systems | 🩺 Healthcare & IoT |
@@ -139,20 +161,24 @@ My personal developer portfolio showcasing my projects, skills and experience.
 | RAG & LLM Applications | Edge & IoT Systems |
 | Distributed Computing | Biomedical & Scientific Data |
 
+<!-- ═══════════ STATS ═══════════ -->
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eya-boukeri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-boukeri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eya-boukeri&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
-## 🤝 Let's Connect
+<!-- ═══════════ SNAKE (needs the GitHub Action, see notes) ═══════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eya-boukeri/eya-boukeri/output/github-snake-dark.svg" alt="snake animation" />
+</p>
 
-📧 **[Email](mailto:aya.boukari@etudiant-enit.utm.tn)**  
-💼 **[LinkedIn](https://linkedin.com/in/aya-boukari)**  
-💻 **[GitHub](https://github.com/eya-boukeri)**  
+<!-- ═══════════ FOOTER ═══════════ -->
+<p align="center"><i>Always learning, building and experimenting with AI & software engineering. ⭐</i></p>
 
-📍 Tunis, Tunisia
-
----
-
-⭐ Feel free to explore my repositories and projects!
-
-*Always learning, building and experimenting with AI & software engineering.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
