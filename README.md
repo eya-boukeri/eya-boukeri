@@ -138,14 +138,7 @@ My personal developer portfolio showcasing my projects, skills and experience.
 | RAG & LLM Applications | Edge & IoT Systems |
 | Distributed Computing | Biomedical & Scientific Data |
 
----
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eya-boukeri&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-boukeri&layout=compact&hide_border=true" height="170"/>
-</p>
 
 ---
 
